@@ -26,7 +26,7 @@ function App() {
   return (
     <div className="App">
       <div className="header">My Dictionary</div>
-      <h2 style={{ padding: "10px" }}>Search Word</h2>
+      <h2 style={{ padding: "6px" }}>Search Word</h2>
       <h3>{searchWord}</h3>
 
       <div className="search">
